@@ -111,5 +111,6 @@ if __name__ == '__main__':
 s.close()
 
 
-
+def another dummy()
+    """Another attempt at a dummy function"""
         
